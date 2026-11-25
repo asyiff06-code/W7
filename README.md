@@ -100,7 +100,7 @@ Apply the display filter `ftp or ftp-data` to isolate FTP packets. A PASV-mode f
 
 Right-click any **FTP-DATA** packet → **Follow → TCP Stream**. The file content is revealed:
 
-![FTP Key Finding](images/Question-2/ftp-file.png)
+![Screenshot](packet2.png)
 
 ```
 https://tinyurl.com/yr5zprz4
