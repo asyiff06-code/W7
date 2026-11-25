@@ -40,7 +40,7 @@ Browse each packet and expand the **Data** section in the Packet Details pane. M
 
 **Packet 37**, an ICMP Echo Reply (Type 0), stands out. Its payload contains a readable ASCII string instead of normal ping padding — a technique known as an **ICMP Covert Channel**.
 
-![Screenshot](Packet37)
+![Screenshot](Packet37.png)
 
 ```
 U1VDVEYyMDIze2FpX2lzX2Nvb2x9
@@ -54,7 +54,7 @@ U1VDVEYyMDIze2FpX2lzX2Nvb2x9
 
 The string is **Base64-encoded**. Decode it using [CyberChef](https://gchq.github.io/CyberChef/) with the **From Base64** operation.
 
-![Decode](images/Question-1/flag1.png)
+![Screenshot](Decode.png)
 
 ---
 
