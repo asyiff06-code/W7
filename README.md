@@ -19,8 +19,8 @@ After loading, inspect the packet list. All **41 packets** use **ICMP** (Interne
 
 | Field | Value |
 |-------|-------|
-| Source IP | `10.66.66.1` |
-| Destination IP | `10.66.66.2` |
+| Source IP | `172.24.20.31` |
+| Destination IP | `171.64.20.62` |
 | Protocol | ICMP (Echo Request / Echo Reply) |
 | Total Packets | 41 |
 
