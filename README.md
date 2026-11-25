@@ -32,7 +32,7 @@ Type `icmp` in the Wireshark display filter bar and press Enter.
 
 Browse each packet and expand the **Data** section in the Packet Details pane. Most packets carry standard repeating ping padding — nothing unusual.
 
-![Filter ICMP](images/Question-1/icmp.png)
+icmp.png
 
 ---
 
