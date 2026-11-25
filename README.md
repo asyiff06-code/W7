@@ -229,8 +229,7 @@ Each operating system sets a **default TTL** value in ICMP packets. By observing
 ---
 
 ### Image 1
-
-![Image 1](images/Question-4/image1.png)
+![Screenshot](ping.png)
 
 **Answer:** `ttl=64` → **Linux / Unix-based OS**
 
