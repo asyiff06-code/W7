@@ -131,7 +131,7 @@ Navigate to [dCode.fr — Tic-Tac-Toe Cipher](https://www.dcode.fr/tic-tac-toe-c
 SUCTF2023{EXMACHINAAVA}
 ```
 
-![flag2](images/Question-2/flag2.png)
+
 
 ---
 
