@@ -40,7 +40,7 @@ Browse each packet and expand the **Data** section in the Packet Details pane. M
 
 **Packet 37**, an ICMP Echo Reply (Type 0), stands out. Its payload contains a readable ASCII string instead of normal ping padding — a technique known as an **ICMP Covert Channel**.
 
-![Packet 37](images/Question-1/packet.png)
+![Screenshot](Packet37)
 
 ```
 U1VDVEYyMDIze2FpX2lzX2Nvb2x9
