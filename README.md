@@ -112,7 +112,7 @@ https://tinyurl.com/yr5zprz4
 
 The shortened URL redirects to a **Google Doc titled "Club Tux"**, which contains images of **Pigpen cipher** symbols — a substitution cipher that encodes letters using tic-tac-toe grid fragments and X-shapes.
 
-![Website](images/Question-2/club-tux.png)
+![Screenshot](cipher.png)
 
 ---
 
