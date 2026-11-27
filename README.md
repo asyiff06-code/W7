@@ -237,7 +237,7 @@ Each operating system sets a **default TTL** value in ICMP packets. By observing
 
 ### Image 2
 
-![Image 2](images/Question-4/image2.png)
+
 
 **Answer:** `Time to live: 255` → **Cisco Router/Switch or Solaris Unix**
 
@@ -245,7 +245,7 @@ Each operating system sets a **default TTL** value in ICMP packets. By observing
 
 ### Image 3
 
-![Image 3](images/Question-4/image3.png)
+
 
 **Answer:** `ttl=128` → **Windows OS**
 
